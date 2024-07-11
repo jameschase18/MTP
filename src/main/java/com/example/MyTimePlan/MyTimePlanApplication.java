@@ -8,9 +8,6 @@ public class MyTimePlanApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MyTimePlanApplication.class, args);
-		//System.out.println("TST");
 	}
-
-
 
 }
